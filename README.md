@@ -1,6 +1,6 @@
 # 🤖 Daily Orders AI Backend [![Platform](https://img.shields.io/badge/Platform-Cloud-blue.svg)](https://render.com) [![Python Version](https://img.shields.io/badge/Python-3.12.10%2B-green.svg)](https://python.org) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A **FastAPI backend** that provides AI-powered processing services for the **[Daily Orders AI Process](https://github.com/AmmarAlhashemi/Daily-Orders-AI-Process)** desktop application.
+A **FastAPI backend** that provides AI-powered processing services for the **[Daily Orders AI Processor](https://github.com/AmmarAlhashemi/Daily-Orders-AI-Processor)** desktop application.
 
 The backend securely handles Google Gemini API communication and exposes structured HTTP endpoints for order parsing and intelligent transaction splitting.
 
@@ -8,7 +8,7 @@ The backend securely handles Google Gemini API communication and exposes structu
 
 ## 🔗 Related Project
 
-**Desktop Application:** `[https://github.com/AmmarAlhashemi/Daily-Orders-AI-Process]`
+**Desktop Application:** `[https://github.com/AmmarAlhashemi/Daily-Orders-AI-Processor]`
 
 ------------------------------------------------------------------------
 
